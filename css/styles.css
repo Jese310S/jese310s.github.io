@@ -25,12 +25,18 @@
 
 .img-thumbnail {
 	height: 120px;
-	margin-bottom: 10px;
+	margin: 10px;
 }
 
 .skills {
   padding-left: 25px;
 }
+
+.interests-section {
+  display: block;
+}
+
+
 
 
 
@@ -547,7 +553,7 @@ mark,
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
-  height: auto;
+  /* height: auto; */
 }
 
 .figure {
@@ -10171,7 +10177,6 @@ p.lead {
 }
 
 section.resume-section {
-  display: flex;
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
