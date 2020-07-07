@@ -15,6 +15,18 @@
   display: flex;
 }
 
+.project-container  {
+	text-align: center;
+	border-radius: 10%;
+	border: 1px solid lightgrey;
+	margin: 30px;
+}
+
+.img-thumbnail {
+	height: 120px;
+	margin-bottom: 10px;
+}
+
 
 
 
@@ -10109,7 +10121,7 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
+    max-width: 13rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
