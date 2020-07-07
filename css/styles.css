@@ -1,4 +1,51 @@
 @charset "UTF-8";
+
+
+/* personal css */
+
+.icon {
+  height: 3em;
+  display: flex;
+  /* margin-top: 10px; */
+  /* margin-bottom: 21px; */
+  margin: 15px;
+}
+
+.skills-container {
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*!
 * Start Bootstrap - Resume v6.0.1 (https://startbootstrap.com/template-overviews/resume)
 * Copyright 2013-2020 Start Bootstrap
